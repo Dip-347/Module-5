@@ -1,0 +1,12 @@
+.parents{
+    padding: 20px;
+    background-color: aquamarine;
+}
+.child{
+    background-color: aqua;
+    border: 3px solid slateblue;
+    padding: 10px;
+    font-size: 15px;
+    margin: 17px;
+
+}
