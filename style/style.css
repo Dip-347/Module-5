@@ -1,6 +1,7 @@
 .parents{
     padding: 20px;
     background-color: aquamarine;
+    display: flex;
 }
 .child{
     background-color: aqua;
@@ -8,5 +9,7 @@
     padding: 10px;
     font-size: 15px;
     margin: 17px;
+    /* width: 50px; */
+    
 
 }
